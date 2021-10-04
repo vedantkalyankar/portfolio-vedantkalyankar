@@ -108,8 +108,8 @@ section{
 .banner{
  
   height: 60vw;
-  
-  
+  padding:30px;
+  background-image: url("Untitled.png");
   min-height: 100px;
   background-repeat: no-repeat;
   background-position: top center;
